@@ -1,0 +1,7 @@
+CREATE TABLE legal_entity (
+    id UUID PRIMARY KEY,
+    code VARCHAR(30) NOT NULL UNIQUE,
+    name VARCHAR(200) NOT NULL,
+    country_code CHAR(2) NOT NULL,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

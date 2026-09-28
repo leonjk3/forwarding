@@ -1,0 +1,5 @@
+:root { font-family: "Segoe UI", "Malgun Gothic", sans-serif; color: #152d41; background: #f3f6f8; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+button { font: inherit; }
+button:focus-visible { outline: 3px solid #efab48; outline-offset: 4px; }
