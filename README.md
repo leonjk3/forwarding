@@ -68,3 +68,5 @@ DB 볼륨은 유지됩니다. `down -v`는 데이터까지 삭제하므로 초�
 4. 필요할 때 생성·삭제하는 수동 트리거 데모 배포
 
 [설계 결정](docs/architecture.md)
+
+[요구사항 및 개발 현황](docs/project-status.md) · [프로젝트 작업·커밋 규칙](AGENTS.md)
